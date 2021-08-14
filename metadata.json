@@ -1,0 +1,9 @@
+{
+  "title": "v4l-experiments",
+  "description_html": "Visualising V4L experiments with Datasette",
+  "plugins": {
+    "datasette-render-images": {
+      "size_limit": 1000000
+    }
+  }
+}
